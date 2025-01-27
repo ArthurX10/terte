@@ -1,0 +1,2 @@
+# terte
+ primeiro repositorio
